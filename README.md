@@ -28,6 +28,8 @@ You can modify it in `.github/workflows/run.yml`
 - [ ]  Replace markdown with GitHub pages front-end.
 
 # Content
+[2025-06-16](data/2025-06-16.md)
+
 [2025-06-15](data/2025-06-15.md)
 
 [2025-06-14](data/2025-06-14.md)
@@ -203,10 +205,6 @@ You can modify it in `.github/workflows/run.yml`
 [2025-03-21](data/2025-03-21.md)
 
 [2025-03-20](data/2025-03-20.md)
-
-[2025-03-19](data/2025-03-19.md)
-
-[2025-03-18](data/2025-03-18.md)
 
 # Related tools
 - ICML, ICLR, NeurIPS list: https://dw-dengwei.github.io/OpenReview-paper-list/index.html
